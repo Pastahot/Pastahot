@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pastahot
 - 👀 I’m interested in C. C++, JAVA, HTML, HTML5, CSS, JavaScript, Python...
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on JAVA project
+- 💞️ I’m looking to collaborate on C or C++ project
 - 📫 How to reach me: via Github or Discord: Astaroth#4365.
 
 <!---
