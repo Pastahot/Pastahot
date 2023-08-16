@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pastahot 
-- 👀 I’m interested in C, C++, JAVA, HTML, CSS, JavaScript, Python...
+- 👀 I’m interested in C, C++, C#, JAVA, Angular...
 - 🌱 I’m currently Working on my Own Project👀.
 - 🤖 Working as a Developer in Siemens Healthineers.
 - 💞️ I’m looking to collaborate on C or C++ project
