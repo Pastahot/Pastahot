@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Pastahot 
-- 👀 I’m interested in C, C++, C#, JAVA, Angular...
-- 🌱 I’m currently Working on my Own Project👀.
-- 💞️ I’m looking to collaborate on C or C++ project
-- 📫 How to reach me: via Github or Discord: Astaroth#4365.
+- 👀 I’m interested in C#, C++, Python, Julia...
+
 
 <!---
 Pastahot/Pastahot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
