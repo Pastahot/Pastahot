@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pastahot 
-- 👀 I’m interested in C#, C++, Python, Javascript, node.js...
+- 👀 I’m interested in C#, Python, nextjs, Javascript, node.js...
 
 
 <!---
